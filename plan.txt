@@ -1,0 +1,22 @@
+Movie streaming website 
+
+ - Mock up quick design based from the example website provided
+ - Plan out user log in and chat
+ - Plan out admin page for adding streams and editing users (1/2 days)
+ - Mock up html for main page and admin page (1/2 days)
+ - Create user login service (1 day) 
+ - Add in chat and integration with login (1/2 days) 
+ - Set up main movie service (1/2 days)
+ - Add admin capabilities (1 day)
+ - Test out website with movie and test users (1day) 
+ - Finish off styling and visual (1 day)
+ - Add in ad service (1day)
+ - Finished! (9 - 13 days)
+
+This is just a rough estimate and it can be updated as I go along.
+
+After or during this we can talk about getting hosting and a domain sorted out and then get it all set up.
+
+We can discuss design elements such as name/logo styling and such which I will need guidance from you on as to what you're looking for.
+
+
